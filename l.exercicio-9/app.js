@@ -1,0 +1,1 @@
+const temperaturas = [23, 17, 31, 8, 25, 14, 29, 
